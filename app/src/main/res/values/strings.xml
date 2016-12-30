@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FakeMail</string>
+    <string name="hint_name">Sender Mail</string>
+    <string name="hint_email">Receiver Mail</string>
+    <string name="hint_password">Subject</string>
+    <string name="btn_sign_up">Send</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_password">Enter the password</string>
+</resources>
