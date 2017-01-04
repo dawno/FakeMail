@@ -10,12 +10,18 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asa" />
+            <option value="$PROJECT_DIR$/easy-android-splash-screen" />
+            <option value="$PROJECT_DIR$/out" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asa" />
+            <option value="$PROJECT_DIR$/easy-android-splash-screen" />
+            <option value="$PROJECT_DIR$/out" />
           </set>
         </option>
       </GradleProjectSettings>

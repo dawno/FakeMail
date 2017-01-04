@@ -1,1 +1,1 @@
-include ':app'
+include ':app', ':out', ':asa', ':easy-android-splash-screen'
