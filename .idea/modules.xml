@@ -6,8 +6,6 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/asa/asa.iml" filepath="$PROJECT_DIR$/asa/asa.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy-android-splash-screen/easy-android-splash-screen.iml" filepath="$PROJECT_DIR$/easy-android-splash-screen/easy-android-splash-screen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/asa/easy-android-splash-screen.iml" filepath="$PROJECT_DIR$/asa/easy-android-splash-screen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/out/lib.iml" filepath="$PROJECT_DIR$/out/lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/out/out.iml" filepath="$PROJECT_DIR$/out/out.iml" />
     </modules>
   </component>
